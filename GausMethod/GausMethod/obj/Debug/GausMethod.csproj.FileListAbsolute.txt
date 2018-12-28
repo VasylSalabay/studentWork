@@ -1,0 +1,7 @@
+C:\Users\salabay\source\repos\GausMethod\GausMethod\bin\Debug\GausMethod.exe.config
+C:\Users\salabay\source\repos\GausMethod\GausMethod\bin\Debug\GausMethod.exe
+C:\Users\salabay\source\repos\GausMethod\GausMethod\bin\Debug\GausMethod.pdb
+C:\Users\salabay\source\repos\GausMethod\GausMethod\obj\Debug\GausMethod.csprojAssemblyReference.cache
+C:\Users\salabay\source\repos\GausMethod\GausMethod\obj\Debug\GausMethod.csproj.CoreCompileInputs.cache
+C:\Users\salabay\source\repos\GausMethod\GausMethod\obj\Debug\GausMethod.exe
+C:\Users\salabay\source\repos\GausMethod\GausMethod\obj\Debug\GausMethod.pdb

@@ -1,0 +1,7 @@
+c:\users\salabay\source\repos\floydMethod\floydMethod\bin\Debug\floydMethod.exe.config
+c:\users\salabay\source\repos\floydMethod\floydMethod\bin\Debug\floydMethod.exe
+c:\users\salabay\source\repos\floydMethod\floydMethod\bin\Debug\floydMethod.pdb
+c:\users\salabay\source\repos\floydMethod\floydMethod\obj\Debug\floydMethod.csprojAssemblyReference.cache
+c:\users\salabay\source\repos\floydMethod\floydMethod\obj\Debug\floydMethod.csproj.CoreCompileInputs.cache
+c:\users\salabay\source\repos\floydMethod\floydMethod\obj\Debug\floydMethod.exe
+c:\users\salabay\source\repos\floydMethod\floydMethod\obj\Debug\floydMethod.pdb

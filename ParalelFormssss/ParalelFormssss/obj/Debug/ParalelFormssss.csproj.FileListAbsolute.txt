@@ -1,0 +1,11 @@
+c:\users\salabay\source\repos\ParalelFormssss\ParalelFormssss\bin\Debug\ParalelFormssss.exe.config
+c:\users\salabay\source\repos\ParalelFormssss\ParalelFormssss\bin\Debug\ParalelFormssss.exe
+c:\users\salabay\source\repos\ParalelFormssss\ParalelFormssss\bin\Debug\ParalelFormssss.pdb
+c:\users\salabay\source\repos\ParalelFormssss\ParalelFormssss\obj\Debug\ParalelFormssss.csprojAssemblyReference.cache
+c:\users\salabay\source\repos\ParalelFormssss\ParalelFormssss\obj\Debug\ParalelFormssss.Form1.resources
+c:\users\salabay\source\repos\ParalelFormssss\ParalelFormssss\obj\Debug\ParalelFormssss.Form2.resources
+c:\users\salabay\source\repos\ParalelFormssss\ParalelFormssss\obj\Debug\ParalelFormssss.Properties.Resources.resources
+c:\users\salabay\source\repos\ParalelFormssss\ParalelFormssss\obj\Debug\ParalelFormssss.csproj.GenerateResource.cache
+c:\users\salabay\source\repos\ParalelFormssss\ParalelFormssss\obj\Debug\ParalelFormssss.csproj.CoreCompileInputs.cache
+c:\users\salabay\source\repos\ParalelFormssss\ParalelFormssss\obj\Debug\ParalelFormssss.exe
+c:\users\salabay\source\repos\ParalelFormssss\ParalelFormssss\obj\Debug\ParalelFormssss.pdb

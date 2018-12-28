@@ -1,0 +1,7 @@
+C:\Users\salabay\source\repos\deixtriMethod\deixtriMethod\obj\Debug\deixtriMethod.csprojAssemblyReference.cache
+C:\Users\salabay\source\repos\deixtriMethod\deixtriMethod\obj\Debug\deixtriMethod.csproj.CoreCompileInputs.cache
+C:\Users\salabay\source\repos\deixtriMethod\deixtriMethod\bin\Debug\deixtriMethod.exe.config
+C:\Users\salabay\source\repos\deixtriMethod\deixtriMethod\bin\Debug\deixtriMethod.exe
+C:\Users\salabay\source\repos\deixtriMethod\deixtriMethod\bin\Debug\deixtriMethod.pdb
+C:\Users\salabay\source\repos\deixtriMethod\deixtriMethod\obj\Debug\deixtriMethod.exe
+C:\Users\salabay\source\repos\deixtriMethod\deixtriMethod\obj\Debug\deixtriMethod.pdb

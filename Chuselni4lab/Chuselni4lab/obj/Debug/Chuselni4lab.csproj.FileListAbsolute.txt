@@ -1,0 +1,10 @@
+c:\users\salabay\source\repos\Chuselni4lab\Chuselni4lab\bin\Debug\Chuselni4lab.exe.config
+c:\users\salabay\source\repos\Chuselni4lab\Chuselni4lab\bin\Debug\Chuselni4lab.exe
+c:\users\salabay\source\repos\Chuselni4lab\Chuselni4lab\bin\Debug\Chuselni4lab.pdb
+c:\users\salabay\source\repos\Chuselni4lab\Chuselni4lab\obj\Debug\Chuselni4lab.csprojAssemblyReference.cache
+c:\users\salabay\source\repos\Chuselni4lab\Chuselni4lab\obj\Debug\Chuselni4lab.Form1.resources
+c:\users\salabay\source\repos\Chuselni4lab\Chuselni4lab\obj\Debug\Chuselni4lab.Properties.Resources.resources
+c:\users\salabay\source\repos\Chuselni4lab\Chuselni4lab\obj\Debug\Chuselni4lab.csproj.GenerateResource.cache
+c:\users\salabay\source\repos\Chuselni4lab\Chuselni4lab\obj\Debug\Chuselni4lab.csproj.CoreCompileInputs.cache
+c:\users\salabay\source\repos\Chuselni4lab\Chuselni4lab\obj\Debug\Chuselni4lab.exe
+c:\users\salabay\source\repos\Chuselni4lab\Chuselni4lab\obj\Debug\Chuselni4lab.pdb

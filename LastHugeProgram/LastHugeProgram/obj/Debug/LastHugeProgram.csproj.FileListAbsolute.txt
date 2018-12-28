@@ -1,0 +1,11 @@
+C:\Users\salabay\source\repos\LastHugeProgram\LastHugeProgram\bin\Debug\LastHugeProgram.exe.config
+C:\Users\salabay\source\repos\LastHugeProgram\LastHugeProgram\bin\Debug\LastHugeProgram.exe
+C:\Users\salabay\source\repos\LastHugeProgram\LastHugeProgram\bin\Debug\LastHugeProgram.pdb
+C:\Users\salabay\source\repos\LastHugeProgram\LastHugeProgram\obj\Debug\LastHugeProgram.csprojAssemblyReference.cache
+C:\Users\salabay\source\repos\LastHugeProgram\LastHugeProgram\obj\Debug\LastHugeProgram.Form1.resources
+C:\Users\salabay\source\repos\LastHugeProgram\LastHugeProgram\obj\Debug\LastHugeProgram.Properties.Resources.resources
+C:\Users\salabay\source\repos\LastHugeProgram\LastHugeProgram\obj\Debug\LastHugeProgram.csproj.GenerateResource.cache
+C:\Users\salabay\source\repos\LastHugeProgram\LastHugeProgram\obj\Debug\LastHugeProgram.csproj.CoreCompileInputs.cache
+C:\Users\salabay\source\repos\LastHugeProgram\LastHugeProgram\obj\Debug\LastHugeProgram.exe
+C:\Users\salabay\source\repos\LastHugeProgram\LastHugeProgram\obj\Debug\LastHugeProgram.pdb
+C:\Users\salabay\source\repos\LastHugeProgram\LastHugeProgram\obj\Debug\LastHugeProgram.Form2.resources

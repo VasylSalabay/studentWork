@@ -1,0 +1,7 @@
+c:\users\salabay\source\repos\BOOKS\BOOKS\bin\Debug\BOOKS.exe.config
+c:\users\salabay\source\repos\BOOKS\BOOKS\bin\Debug\BOOKS.exe
+c:\users\salabay\source\repos\BOOKS\BOOKS\bin\Debug\BOOKS.pdb
+c:\users\salabay\source\repos\BOOKS\BOOKS\obj\Debug\BOOKS.csproj.CoreCompileInputs.cache
+c:\users\salabay\source\repos\BOOKS\BOOKS\obj\Debug\BOOKS.exe
+c:\users\salabay\source\repos\BOOKS\BOOKS\obj\Debug\BOOKS.pdb
+C:\Users\salabay\source\repos\BOOKS\BOOKS\obj\Debug\BOOKS.csprojAssemblyReference.cache
